@@ -10,7 +10,6 @@ function multiply(a, b) {
 function divide(a, b) {
   return a/b
 }
-var number = 760
 function inc(n) {
-  return number++
+  return n+=1
 }
